@@ -3,8 +3,8 @@ import ExpenceItem from "./components/ExpenceItem";
 function App(){
   return(
     <div>
-      <h1>Lets Get Started Sonu</h1>
-      <p>this is also visible</p>
+      <h1>Lets Get Started</h1>
+      
       <ExpenceItem></ExpenceItem>
     </div>
   );
